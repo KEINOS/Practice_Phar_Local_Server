@@ -1,3 +1,4 @@
 <?php
+include_once('function.php.inc');
 
-echo 'Hello World!' . PHP_EOL;
+echo_hello();
